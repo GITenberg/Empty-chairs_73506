@@ -1,0 +1,25 @@
+_repo: Empty-chairs_73506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bancroft, Squire
+    gutenberg_agent_id: '57102'
+    url: http://www.gutenberg.org/2009/agents/57102
+description: ''
+gutenberg_issued: '2024-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73506'
+language: en
+pgterms:marc905: 20240425164309bancroft
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bJohn Murray, $c1925, reprint 1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Empty chairs
+url: http://www.gutenberg.org/ebooks/73506
