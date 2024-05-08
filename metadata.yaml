@@ -1,11 +1,16 @@
 _repo: Empty-chairs_73506
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73506-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bancroft, Squire
     gutenberg_agent_id: '57102'
     url: http://www.gutenberg.org/2009/agents/57102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73506#Empty-chairs
 gutenberg_issued: '2024-05-01'
 gutenberg_type: Text
 identifiers:
